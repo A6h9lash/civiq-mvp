@@ -1,0 +1,1 @@
+# CivIQ MVP with Firebase, Gemini, and React
